@@ -1,0 +1,18 @@
+dataset: Scene15
+
+encoder_dim:
+  - [ 20, 1024, 1024, 1024, 128 ]
+  - [ 59, 1024, 1024, 1024, 128 ]
+
+n_classes: 15
+
+batch_size: 1024
+momentum: 0.98
+temperature: 0.5
+
+blr: 5.0e-4
+weight_decay: 0
+
+data_path: data/multiview
+output_dir: DIVIDE
+seed: 0
