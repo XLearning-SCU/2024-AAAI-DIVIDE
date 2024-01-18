@@ -15,8 +15,6 @@ scikit-learn>=0.0.post1
 
 munkres>=1.1.4
 
-## Configuration
-
 ## Datasets
 
 You could find the dataset we used in the paper at [Google Drive](https://drive.google.com/drive/folders/1TEDxpnrm3cCJURtP7XmjqJxypArwsiXT?usp=drive_link).
