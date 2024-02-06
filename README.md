@@ -41,8 +41,8 @@ If you find our work useful in your research, please consider citing:
 @article{lu2023decoupled,
   title={Decoupled Contrastive Multi-view Clustering with High-order Random Walks},
   author={Lu, Yiding and Lin, Yijie and Yang, Mouxing and Peng, Dezhong and Hu, Peng and Peng, Xi},
-  journal={arXiv preprint arXiv:2308.11164},
-  year={2023}
+  journal={Thirty-Eighth AAAI Conference on Artificial Intelligence},
+  year={2024}
 }
 ```
 
